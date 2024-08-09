@@ -10,6 +10,8 @@ This project is made using the concept of Object Oriented Programming with the u
 
 # Instructions
 
+Run the 'main.py' file to run the game.
+
 Use the UP ARROW KEY to move forward the turtle.
 
 # Rules
